@@ -1,10 +1,10 @@
-# Testing Android API 31
+# Testing Android API 32
 This app and repository are created for the course CT60A4160 Fundamentals of Software Testing of LUT University, Finland. 
 The app takes in user-entered data and uses a SQLite database to store the data. 
 The user can view, update, and delete the data later.
 
 ## Environment
-The app was tested on API level 32 during development, using USB debugging.
+The app was developed using Android Studio on Linux Mint, and tested on Android API level 32 using USB debugging.
 
 ## How does it work?
 The user enters their name, email, and degree program for insertion. After the first insertion, the data can be viewed.
